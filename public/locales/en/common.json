@@ -1,0 +1,93 @@
+{
+  "site": {
+    "title": "StudyPay - Buy Gift Cards & Online Subscriptions",
+    "description": "Best platform to buy Amazon gift cards, Play Store, Netflix subscriptions, Twitter Premium and university application fees"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "services": "Services",
+    "language": "Language"
+  },
+  "home": {
+    "hero": {
+      "title": "Easy Purchase of Gift Cards & Online Subscriptions",
+      "subtitle": "Best prices for Amazon gift cards, Play Store, Netflix subscriptions, Twitter Premium and university application fees",
+      "cta": "View Services",
+      "cta_contact": "Contact Us"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "We cover all your online payment needs",
+      "gift_cards": {
+        "title": "Gift Cards",
+        "description": "Buy Amazon, Play Store, App Store and other platform gift cards"
+      },
+      "subscriptions": {
+        "title": "Subscriptions",
+        "description": "Purchase Netflix, Spotify, Twitter Premium and other service subscriptions"
+      },
+      "university": {
+        "title": "University Application Fees",
+        "description": "Pay application fees for international universities"
+      }
+    },
+    "features": {
+      "title": "Why StudyPay?",
+      "fast": {
+        "title": "High Speed",
+        "description": "Instant delivery after payment"
+      },
+      "secure": {
+        "title": "Complete Security",
+        "description": "Secure payment and protection of your information"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Support available around the clock"
+      },
+      "price": {
+        "title": "Best Price",
+        "description": "Most competitive prices in the market"
+      }
+    }
+  },
+  "about": {
+    "title": "About StudyPay",
+    "description": "StudyPay is the best and most reliable platform for purchasing gift cards and online subscriptions. With years of experience in this field, we provide quality and secure services to you.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "Our goal is to provide easy and secure access to international online services for Iranian users."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "Becoming the largest and most trusted platform for purchasing gift cards and online subscriptions in Iran."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with us for any questions or requests",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send Message"
+    },
+    "info": {
+      "email": "info@studypay.info",
+      "telegram": "@StudyPaySupport",
+      "phone": "Telegram Support"
+    }
+  },
+  "footer": {
+    "description": "StudyPay - Best platform for gift cards and online subscriptions",
+    "links": {
+      "about": "About",
+      "contact": "Contact",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    },
+    "copyright": "All rights reserved"
+  }
+}
